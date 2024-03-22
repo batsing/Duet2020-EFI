@@ -5,7 +5,7 @@
 目前适配的系统有 macOS 12.7 ，工具和镜像下载 https://www.123pan.com/s/9ZSzVv-fE7Kd.html
 
 
-安装方法：  参考图文教程 https://apple.sqlsec.com/5-%E5%AE%9E%E6%88%98%E6%BC%94%E7%A4%BA/5-1/
+安装方法：  参考图文教程 https://apple.sqlsec.com/5-%E5%AE%9E%E6%88%98%E6%BC%94%E7%A4%BA/5-5/
 
 ### 一、制作安装优盘
 1、找一个16GB的优盘，用管理员身份运行 balenaEtcher 软件，烧录黑果小兵出品的macOS 12.7的安装盘到优盘里。  
