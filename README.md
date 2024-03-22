@@ -28,5 +28,5 @@
 
 ### 四、修改系统序列码（可选）
 1、苹果电脑有三个序列码，本EFI里预设了一套，但建议不同的电脑用不同的序列码，以免被苹果找麻烦。  
-2、安装python3，解压 OCAT.zip 软件并运行，生成三个码，找到硬盘里引导分区的 EFI/OC/config.plist 文件。  
+2、安装python3，解压 OCAT.zip （OCAuxiliaryTools）软件并运行，生成三个码，找到硬盘里引导分区的 EFI/OC/config.plist 文件。  
 3、查找 SystemSerialNumber、 SystemUUID、 MLB 分别填入。  
